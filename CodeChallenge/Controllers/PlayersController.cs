@@ -18,7 +18,7 @@ namespace CodeChallenge.Controllers
 			}
 
 			int number = totalPlayers; 
-			int skip = 1; //count of people to be skipped
+			int skip = 1; //count of player to be skipped
 						  
 			
 
