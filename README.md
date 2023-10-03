@@ -5,8 +5,10 @@ There are X people standing in a circle. At some point in the circle, the counti
 
 <img src="https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/gif.gif" width="auto">
 
-# Requested
-
+# What is in the project ?
+- It is a web api project with .Net Core
+- The number of people information is taken as a parameter.
+- The API returns the last remaining player information.
 
 
 
