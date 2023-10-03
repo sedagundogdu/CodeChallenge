@@ -10,7 +10,10 @@ There are X people standing in a circle. At some point in the circle, the counti
 - The number of people information is taken as a parameter.
 - The API returns the last remaining player information.
 
+# Important tips
 
 
-![image](https://github.com/sedagundogdu/CodeChallenge/assets/69769369/d5302453-0675-472f-a7d8-7407ad5ea64b)
-![image](https://github.com/sedagundogdu/CodeChallenge/assets/69769369/5c716589-ae2c-47cf-a70f-b51342320270)
+
+<img src="[./assets/image_unsplash.jpg](https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img.png)" alt="alt yazı" width="320">
+<img src="[gorsel-link](https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img2.png)https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img2.png" width="auto">
+
