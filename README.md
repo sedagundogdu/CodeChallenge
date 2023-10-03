@@ -10,7 +10,7 @@ There are X people standing in a circle. At some point in the circle, the counti
 - The number of people information is taken as a parameter.
 - The API returns the last remaining player information.
 
-# Tips
+## Tips
 - If the number of people standing in the circle is 2^n, the last person is always the first person.
 
 ## API
