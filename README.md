@@ -15,6 +15,6 @@ There are X people standing in a circle. At some point in the circle, the counti
 
 ### API
 
-<img src="https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img.png" width="320">
+<img src="https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img.png" width="520">
 
 
