@@ -13,7 +13,9 @@ There are X people standing in a circle. At some point in the circle, the counti
 # Important tips
 
 
+### API
 
-<img src="[./assets/image_unsplash.jpg](https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img.png)" alt="alt yazı" width="320">
+<img src="[./assets/image_unsplash.jpg](https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img.png)" width="320">
+
 <img src="[gorsel-link](https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img2.png)https://github.com/sedagundogdu/CodeChallenge-JosephusProblem/blob/master/API_img2.png" width="auto">
 
